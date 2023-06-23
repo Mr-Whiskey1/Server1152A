@@ -20,10 +20,15 @@ The Mod "ServerPack1152A" has the stalker style PDA,HUD,spawn select as well as 
 Steps
 
 1)Download Files From link
+
 2)Sub to all mods in list
+
 3)Add mods to server hoster like noramal (Keys file has My ServerPack Key in it)
+
 4)Start server and let run for a few minutes to generate files
+
 5) Go through downloaded file from link and add them into Config and mpmissions
+
 
 You still have to add custom trader areas using editor loader
 (use my trader file as an example) (my file adds one general trader and drug trader and also three strongholds)
