@@ -1,0 +1,11 @@
+BVM_VendingMachine_clothing.Clothing|10001.4 207.351 5690.54|-45.000000 0.162044 0.972332
+BVM_VendingMachine_medical.Medicals|10003.1 207.312 5692.18|-53.2495 0.259967 0.614881
+BVM_VendingMachine_consumables.Consumables|10004.5 207.286 5694.29|-63.7161 0.00269254 0.362317
+BVM_VendingMachine_helicopters.Aircraft|10002.6 207.265 5717.82|-98.9999 0.678959 -0.107551
+BVM_VendingMachine_vehicle_parts.Vehicle_Parts|10002.1 207.271 5720.21|-98.9999 0.678975 -0.107551
+BVM_VendingMachine_vehicles.Vehicles|10001.8 207.275 5722.6|-98.9999 0.678975 -0.107551
+BVM_VendingMachine_ammunition.Ammunition|9995.33 207.297 5740.05|-98.9999 -0.089626 -0.56592
+BVM_VendingMachine_explosives.Explosives|9993.46 207.346 5742.8|-126.0000 0.311985 -0.934911
+BVM_VendingMachine_weapons.Weapons|9990.69 207.361 5744.98|-147.415 -0.050844 -0.984286
+BVM_VendingMachine_exchange.BaseSupplies|9971.34 207.635 5743.6|169.531 -1.02376 -0.648906
+BVM_VendingMachine_exchange.Exchange|9956.43 207.764 5740.77|168.109 -0.554926 0.133597

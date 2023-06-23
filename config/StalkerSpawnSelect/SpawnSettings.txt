@@ -1,0 +1,3 @@
+BodyBlockSpawns 0
+BodyBlockDistance 30
+BodyBlockRespawnTimeMinutes 1

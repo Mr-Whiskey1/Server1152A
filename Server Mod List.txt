@@ -1,0 +1,38 @@
+Additional Medical
+Parachute
+CF
+BBP
+Builderitems
+Cannabisplus
+cbd bullet stack
+code lock
+collectable items
+COT
+Dabs
+Expansion Core
+Editor Loader
+Dayz Mining 
+Expansion
+-Ai
+-Map-Assets
+-Market
+-Missioins
+-Quests
+DNA
+FC_Fish_equip
+GSC
+Hunter Mega Pack
+MMG Gear
+More Explosives
+More Maskz
+Mortys weapons
+MSP
+Pripyat
+Pripyat sky
+Snafu
+Stalker Spawn Select
+VPP Admin
+Windstrides
+ServerPack1152A
+Vanillaplusplusmap -->required for spawn select
+KOTH
