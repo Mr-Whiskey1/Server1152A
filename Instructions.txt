@@ -20,13 +20,12 @@ Steps
 
 1)Download Files From link
 2)Sub to all mods in list
-3)Add mods to server hoster like noramal (Keys file has all the keys used if your server hoster requires it)
+3)Add mods to server hoster like noramal (Keys file has My ServerPack Key in it)
 4)Start server and let run for a few minutes to generate files
 5) Go through downloaded file from link and add them into Config and mpmissions
 
 You still have to add custom trader areas using editor loader
 (use my trader file as an example) (my file adds one general trader and drug trader and also three strongholds)
-Market files are an example
 
 Dayz mining requires you to go into editor and place nodes then copy the coords to their .json file
 Additional Medical Seems to be causing some issues may want to replace it
