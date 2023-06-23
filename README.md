@@ -1,0 +1,34 @@
+# Server1152A
+Instructions
+I havent completed all the setup steps for your server
+i have added all mod types and spawnabletypes into the mod_db folder
+All mods have been loaded
+
+you need to add custom trader areas 
+you need to edit market prices 
+you need to edit types to your liking 
+you need to edit spawnable types to your liking
+you need to add more strongholds if you want them
+Go through config files and expansion files and edit them to your liking lots of great stuff to edit
+
+
+The Mod "ServerPack1152A" has the stalker style PDA,HUD,spawn select as well as the bbp vailla damage file so vanilla explosive will work
+
+
+
+
+Steps
+
+1)Download Files From link
+2)Sub to all mods in list
+3)Add mods to server hoster like noramal (Keys file has My ServerPack Key in it)
+4)Start server and let run for a few minutes to generate files
+5) Go through downloaded file from link and add them into Config and mpmissions
+
+You still have to add custom trader areas using editor loader
+(use my trader file as an example) (my file adds one general trader and drug trader and also three strongholds)
+
+Dayz mining requires you to go into editor and place nodes then copy the coords to their .json file
+Additional Medical Seems to be causing some issues may want to replace it
+Vehicles have not been added as the zoom zoom pack doesnt have a types file
+i recommend CARs mod because he has the types and spawnabletypes already loaded in there great mod with over 100 vehicles
